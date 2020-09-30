@@ -224,4 +224,7 @@ export default {
     font-size: 12px;
     font-weight: bold;
   }
+  .el-button.is-circle{
+    padding:6px;
+  }
 </style>
